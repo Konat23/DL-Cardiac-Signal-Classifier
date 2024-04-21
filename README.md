@@ -1,4 +1,4 @@
-# DL-Cardiac-Signal-Classifier
+# Deep Learning Cardiac Signal Classifier
 Cardiac signal classifier using deep learning models, allows categorization between:
 - Normal
 - Noise
