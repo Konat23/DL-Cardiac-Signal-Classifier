@@ -32,7 +32,7 @@ $Z = \frac{x - \mu}{\sigma}$
 </p>
 
 ## Results 
-Performance metrics in classification. Macro average.
+Performance metrics in classification. Macro average. Cross-validation with 5 folder.
 | Métrica   | Media  | Desv. Estándar |
 |-----------|--------|----------------|
 | Precisión | 0.8953 | ±0.00876       |
