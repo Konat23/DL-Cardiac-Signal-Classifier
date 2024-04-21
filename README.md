@@ -27,7 +27,7 @@ $Z = \frac{x - \mu}{\sigma}$
 - Validation Data [9357] (8%)
 - Testing Data [23391] (20%)
 ## Model 
-El modelo keras esta disponible en es [link](https://drive.google.com/file/d/1DHFXWbuIzwr4dLW_SoMtqhWleBaizDsi/view).
+The keras model is available in [link](https://drive.google.com/file/d/1DHFXWbuIzwr4dLW_SoMtqhWleBaizDsi/view).
 <p align="center">
   <img src="https://github.com/Konat23/DL-Cardiac-Signal-Classifier/assets/68023761/6df4bc74-0b74-476f-b13c-890a9e7b5913" width="500" height="300">
 </p>
